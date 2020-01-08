@@ -1,2 +1,6 @@
-# kb-python-notebooks
-A repository of python notebooks that help understand some interesting concepts in data science
+# python-den
+A repository of python notebooks and scripts that help one understand some interesting concepts in computer science (including data science)
+
+### Index
+#### Web Scraping
+1. Simple Amazon Product Details Scraping (Amazon.in Pantry).py
